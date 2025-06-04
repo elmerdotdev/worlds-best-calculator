@@ -1,0 +1,12 @@
+{
+  "name": "@jrbalbin/worlds-best-calculator",
+  "version": "1.1.1",
+  "description": "This is the world's best calculator.",
+  "license": "ISC",
+  "author": "Elmer Balbin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
